@@ -56,3 +56,12 @@ button:hover {
 input:disabled {
     background-color: black;
 }
+
+p::first-line {
+    color: green;
+}
+
+p::first-letter {
+    color: red;
+    font-size: 45px;
+}
