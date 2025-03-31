@@ -1,8 +1,8 @@
-div {
+/*div {
     width: 250px;
     height: 250px;
     background-color: orange;
-}
+}*/
 
 p {
     color: orange;
@@ -57,17 +57,21 @@ input:disabled {
     background-color: black;
 }
 
-p::first-line {
+/*p::first-line {
     color: green;
 }
 
 p::first-letter {
     color: red;
     font-size: 45px;
-}
+}*/
 
 .capibara1, .capibara2, .capibara3 {
     width: 100px;
     height: 100px;
     background-color: violet;
+}
+
+.padre p {
+    color: red;
 }
