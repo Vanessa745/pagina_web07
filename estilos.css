@@ -14,3 +14,15 @@ p {
     background-color: rgb(10, 100, 50);
     /*background-color: rgb(10%, 100%, 50%);*/
 }
+
+.otra_caja {
+    width: 150px;
+    height: 150px;
+    background-color: rgba(0, 0, 255, 0.5);
+}
+
+.una_caja_mas {
+    width: 150px;
+    height: 150px;
+    background-color: #1ecbe1;
+}
