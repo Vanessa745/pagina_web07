@@ -26,3 +26,33 @@ p {
     height: 150px;
     background-color: #1ecbe1;
 }
+
+.capibara {
+    width: 150px;
+    height: 150px;
+    background-color: hsl(0, 100%, 50%, 0.5);
+}
+
+* {
+    color: green;
+    font-weight: bolder;
+}
+
+#soy_unico {
+    width: 250px;
+    height: 50px;
+    background-color: aqua;
+}
+
+a[title] {
+    color: red;
+}
+
+button:hover {
+    background-color: yellow;
+    color: red;
+}
+
+input:disabled {
+    background-color: black;
+}
